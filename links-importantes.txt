@@ -1,0 +1,16 @@
+https://en.bem.info/methodology/quick-start/   
+apuntes de curso BEM
+https://es.stackoverflow.com/questions/307430/como-trabajar-con-archivos-binarios-con-git-github
+que hacer con los archivos binarios en git
+
+google font 
+para las fuentes
+
+https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related
+extencion de google para ver como se ve en telefono 
+
+https://www.mydevice.io/#compare-devices
+ver tama;os de dispositivos
+
+figma.com
+es para dise;ar una pagina web 
